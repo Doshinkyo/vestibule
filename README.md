@@ -4,4 +4,4 @@ Not building anything specific, just having fun with Flet
 
 ![Alt Text](/Flet_Login_Page.gif)
 
-Don't judge my ammature code! :D
+Don't judge my amateur code! :D
